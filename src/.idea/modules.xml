@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../Dynamic Textbox/.idea/Dynamic Textbox.iml" filepath="$PROJECT_DIR$/../../../../Dynamic Textbox/.idea/Dynamic Textbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Login &amp; Register/.idea/Login &amp; Register.iml" filepath="$PROJECT_DIR$/../../../../Login &amp; Register/.idea/Login &amp; Register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Exercises/MyExercises/.idea/MyExercises.iml" filepath="$PROJECT_DIR$/../../../../Exercises/MyExercises/.idea/MyExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/src.iml" filepath="$PROJECT_DIR$/.idea/src.iml" />
+    </modules>
+  </component>
+</project>
